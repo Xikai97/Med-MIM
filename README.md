@@ -22,6 +22,6 @@
       year={2025},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={}, 
+      url={https://arxiv.org/abs/2505.19031}, 
 }
 ```
