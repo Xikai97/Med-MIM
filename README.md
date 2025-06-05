@@ -16,12 +16,11 @@
 ## Citation
 
 ```bibtex
-@misc{yan2025medhalltune,
-      title={Medical Large Vision Language Models with Multi-Image Visual Ability}, 
-      author={Xikai Yang and Juzheng Miao and Yuchen Yuan and Jiaze Wang and Qi Dou and Jinpeng Li and Pheng-Ann Heng},
-      year={2025},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2505.19031}, 
+@article{yang2025medical,
+  title={Medical Large Vision Language Models with Multi-Image Visual Ability},
+  author={Yang, Xikai and Miao, Juzheng and Yuan, Yuchen and Wang, Jiaze and Dou, Qi and Li, Jinpeng and Heng, Pheng-Ann},
+  journal={arXiv preprint arXiv:2505.19031},
+  year={2025}
 }
+
 ```
