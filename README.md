@@ -2,6 +2,7 @@
 
 ---
 ## Release
+- [October 09, 2025] Med-Mantis is released.
 - [June 24, 2025] Med-MIM Benchmark dataset is open-sourced.
 - [June 23, 2025] Med-MIM Instruction dataset is open-sourced.
 - [June 18, 2025] Med-MIM has been accepted by MICCAI 2025.
@@ -10,7 +11,7 @@
 
 ## Model Download
 
-- Both MIM-LLaVA-Med and Med-Mantis will be released soon.
+- Med-Mantis has been released on Hugging Face: https://huggingface.co/yangxk/Med-Mantis.
 
 
 ## Data Download
@@ -49,11 +50,12 @@ Access requirements:
 ## Citation
 
 ```bibtex
-@article{yang2025medical,
+@inproceedings{yang2025medical,
   title={Medical Large Vision Language Models with Multi-Image Visual Ability},
   author={Yang, Xikai and Miao, Juzheng and Yuan, Yuchen and Wang, Jiaze and Dou, Qi and Li, Jinpeng and Heng, Pheng-Ann},
-  journal={arXiv preprint arXiv:2505.19031},
-  year={2025}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={402--412},
+  year={2025},
+  organization={Springer}
 }
-
 ```
